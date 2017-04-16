@@ -12,10 +12,32 @@
   "devDependencies": {
     "axios": "^0.15.3",
     "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
     "cross-env": "^3.2.3",
     "jquery": "^3.1.1",
     "laravel-mix": "0.*",
     "lodash": "^4.17.4",
     "vue": "^2.1.10"
-  }
+  },
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "no one",
+  "main": "webpack.mix.js",
+  "directories": {
+    "test": "tests" 
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardogpg/ecommer_php.git"
+  },
+  "author": "eduardo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/eduardogpg/ecommer_php/issues"
+  },
+  "homepage": "https://github.com/eduardogpg/ecommer_php#readme",
+  "keywords": [
+    "ecommerce"
+  ]
 }
